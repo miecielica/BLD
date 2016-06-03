@@ -38,7 +38,7 @@ Ich würde mich für R entscheiden, da dies eine Sprache ist, die wichtige Punkt
 ### Assignement 2
 Ich entscheide mich für R aufgrund der in Punkt 1.2 aufgeführten Vorteile dieser Plattform.
 
-
+![alt text]( https://github.com/miecielica/BLD/blob/master/RStudio.png "RStudio")
 
 R Toolchain:
   * Linux Ubuntu 16.04
