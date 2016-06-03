@@ -45,3 +45,5 @@ R Toolchain:
   * R 3.3.1
   * RStudio 0.99.902 IDE
 
+### Assignement 3
+Der Einsatz des Algorithmus der dimensional reduction würde in meiner Master Arbeit Sinn machen. Hierbei geht es um eine Online Filmdatenbank. Wenn man beispielsweise bei 100 Personen jeweils eine Filmpräferenz (0 - man mag den Film nicht, 1 - man mag den Film) zu 500 Filmen speichern will, würde das pro Person einen binären 100er Vektor ergeben. Durch dimensional reduction könnte man diesen 100er Vektor auf 5 reduzieren indem man 5 Filmkategorien einführt und einen machine learning task darüber ausführt.
