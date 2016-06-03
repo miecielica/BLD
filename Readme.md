@@ -12,3 +12,11 @@ In meinem Berufspraktikum bei einem Bankunternehmen habe ich real-time Datenstr�
 Ich habe mich für Flink entschieden, da diese Data Engineering Platform für Batch Processing besonders gut geeignet ist. Weiters bietet es eine gute Kompatibilität zu bereits bestehendem storm, map reduce oder ähnlichem Code.
 
 ![alt text]( https://github.com/miecielica/BLD/blob/master/Flink.png "Logo Title Text 1")
+
+Flink Toolchain:
+  * Maven
+  * Openjdk 1.0.8_091
+  * Flink
+  * Hadoop
+  * Eclipse Scala IDE 4.0.0
+
