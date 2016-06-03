@@ -1,4 +1,4 @@
-# BLD Assignement
+﻿# BLD Assignement
 
 
 ## 1.1
@@ -11,4 +11,4 @@ In meinem Berufspraktikum bei einem Bankunternehmen habe ich real-time Datenstr�
 ## 2.1
 Ich habe mich für Flink entschieden, da diese Data Engineering Platform für Batch Processing besonders gut geeignet ist. Weiters bietet es eine gute Kompatibilität zu bereits bestehendem storm, map reduce oder ähnlichem Code.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]( https://github.com/miecielica/BLD/blob/master/Flink.png "Logo Title Text 1")
